@@ -1,8 +1,8 @@
-# SPREAD-NEWS
+# SPREAD
 
 ## Overview
 
-Welcome to SPREAD-NEWS, a cutting-edge web application designed for dynamic news distribution. This README provides an all-encompassing look at its architecture, design choices, and future directions.
+Welcome to SPREAD, a cutting-edge web application designed for dynamic news distribution. This README provides an all-encompassing look at its architecture, design choices, and future directions.
 
 ## HTML5 Semantic Markup
 
@@ -17,7 +17,7 @@ Our styling leverages advanced CSS3 techniques, including:
 
 ## Bootstrap 5 Responsive Grid System
 
-SPREAD-NEWS is built with the Bootstrap 5 framework, utilizing its responsive grid system for dynamic layout adjustments:
+SPREAD is built with the Bootstrap 5 framework, utilizing its responsive grid system for dynamic layout adjustments:
 - Mobile-first approach ensures optimal viewing on all device sizes.
 - Custom utility classes enhance design flexibility.
 
@@ -43,7 +43,7 @@ Our performance optimization strategies include:
 
 ## Accessibility Features
 
-SPREAD-NEWS is committed to accessibility:
+SPREAD is committed to accessibility:
 - Implementation of ARIA roles and attributes for better screen reader support.
 - Keyboard navigable elements for users relying on assistive technologies.
 
@@ -82,7 +82,7 @@ Our development follows an Agile methodology, with iterations focused on user fe
 
 ## Educational Value
 
-SPREAD-NEWS serves not only as a platform but also as an educational resource, showcasing best practices in web development, from semantic HTML to performance optimization techniques.
+SPREAD serves not only as a platform but also as an educational resource, showcasing best practices in web development, from semantic HTML to performance optimization techniques.
 
 ## Future Roadmap Phases
 
@@ -92,6 +92,6 @@ SPREAD-NEWS serves not only as a platform but also as an educational resource, s
 
 ## Conclusion
 
-Thank you for being a part of the SPREAD-NEWS community! We are excited to continuously enhance this platform to provide users with an exceptional experience. 
+Thank you for being a part of the SPREAD community! We are excited to continuously enhance this platform to provide users with an exceptional experience. 
 
 For contributions, suggestions, or inquiries, please reach out to the development team.
