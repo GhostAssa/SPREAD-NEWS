@@ -1,5 +1,5 @@
 # SPREAD
-###Live Site: https://ghostassa.github.io/SPREAD-NEWS/
+Live Site: https://ghostassa.github.io/SPREAD-NEWS/
 ## Overview
 
 Welcome to SPREAD, a cutting-edge web application designed for dynamic news distribution. This README provides an all-encompassing look at its architecture, design choices, and future directions.
